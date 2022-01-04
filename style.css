@@ -4,8 +4,12 @@ body{
 .container{ 
     display: flex;
 }
+h1{
+    font-weight: 700px;
+}
 span{
     color: mediumvioletred;
+    font-weight: 700;
 }
 .half-width{
     width: 50%;
@@ -31,7 +35,8 @@ span{
 
     
 }
+
 .half-width img{
-    width: 370px;
+    width: 350px;;
     border-radius: 25px;
 }
