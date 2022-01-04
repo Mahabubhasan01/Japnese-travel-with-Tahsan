@@ -5,7 +5,10 @@ body{
     display: flex;
 }
 h1{
-    font-weight: 700px;
+    font-size: 50px;
+}
+h2{
+    font-size: 40px;
 }
 span{
     color: mediumvioletred;
@@ -14,11 +17,12 @@ span{
 .half-width{
     width: 50%;
     padding-left: 3%;
+    padding-top: 3%;
 
 
 }
 .half-width img{
-    width: 85%;
+    width: 75%;
 }
 .link-button{
     text-decoration: none;
@@ -39,4 +43,32 @@ span{
 .half-width img{
     width: 350px;;
     border-radius: 25px;
+}
+.learn-japan{
+    box-shadow: 10px 10px 10px blueviolet;
+    margin-left: 5%;
+    margin-right: 5%;
+    border-radius: 10px;
+    padding-left: 10px;
+}
+#one{
+    border-left: 7px solid;
+    border-image: linear-gradient(blueviolet, cyan) 30;
+    border-image-slice: 1;
+}
+#two{
+    border-left: 7px solid ;
+    border-image: linear-gradient(blueviolet, cyan) 30;
+    border-image-slice:1;
+    
+}
+.learn-area{
+    padding: 10px;;
+}
+.sami{
+    text-align: center;
+    color: rgb(38, 120, 197);
+}
+footer{
+    text-align: center;
 }
