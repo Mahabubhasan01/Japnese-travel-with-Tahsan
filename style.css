@@ -44,12 +44,16 @@ span{
     width: 350px;;
     border-radius: 25px;
 }
+
+
 .learn-japan{
     box-shadow: 10px 10px 10px blueviolet;
     margin-left: 5%;
     margin-right: 5%;
     border-radius: 10px;
     padding-left: 10px;
+    background-image: url(images/last.jpg);
+    
 }
 #one{
     border-left: 7px solid;
@@ -62,9 +66,8 @@ span{
     border-image-slice:1;
     
 }
-.learn-area{
-    padding: 10px;;
-}
+
+
 .sami{
     text-align: center;
     color: rgb(38, 120, 197);
