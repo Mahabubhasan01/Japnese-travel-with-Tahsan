@@ -1,0 +1,33 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.container{ 
+    display: flex;
+}
+span{
+    color: mediumvioletred;
+}
+.half-width{
+    width: 50%;
+    padding-left: 3%;
+
+
+}
+.half-width img{
+    width: 85%;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(mediumvioletred,blueviolet);
+    color: white;
+    font-weight: 700px;
+    padding: 10px 40px;
+    border-radius:7px;
+}
+.parent{
+    background-image: url(images/pn.jpg);
+    background-repeat: no-repeat;
+    margin-left: 3px;
+    
+    
+}
