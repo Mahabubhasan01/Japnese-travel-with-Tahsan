@@ -28,6 +28,10 @@ span{
     background-image: url(images/pn.jpg);
     background-repeat: no-repeat;
     margin-left: 3px;
+
     
-    
+}
+.half-width img{
+    width: 370px;
+    border-radius: 25px;
 }
